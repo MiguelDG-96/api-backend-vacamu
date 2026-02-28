@@ -1,4 +1,4 @@
-# 🐄 GanaderoPro - Sistema de Gestión Ganadera
+# 🐄 Vacamuu - Sistema de Gestión y trazabilidad Ganadera
 ## Documentación de Base de Datos
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
