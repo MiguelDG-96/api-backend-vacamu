@@ -9,7 +9,7 @@
 
 ## 📖 Descripción General
 
-**GanaderoPro** es un sistema completo de gestión ganadera diseñado para ganaderos medianos y grandes que necesitan llevar un control exhaustivo de sus animales. Esta documentación contiene el esquema completo de base de datos PostgreSQL con todas las tablas, relaciones, índices y consultas necesarias para el funcionamiento de la aplicación móvil.
+**Vacamuu** es un sistema completo de gestión ganadera diseñado para ganaderos medianos y grandes que necesitan llevar un control exhaustivo de sus animales. Esta documentación contiene el esquema completo de base de datos PostgreSQL con todas las tablas, relaciones, índices y consultas necesarias para el funcionamiento de la aplicación móvil.
 
 ### 🎯 Objetivo
 
